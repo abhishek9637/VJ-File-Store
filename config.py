@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_V
 # Ask Doubt on telegram @KingVJ01
 
 
@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_V
 # Ask Doubt on telegram @KingVJ01
 
 
@@ -26,7 +26,7 @@ def is_enabled(value, default):
         return default
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_V
 # Ask Doubt on telegram @KingVJ01
       
 # Owner Information
@@ -41,7 +41,7 @@ DB_URI = environ.get("DB_URI", "mongodb+srv://akshanshchaudhary538:Ne7on9zyGBWaR
 DB_NAME = environ.get("DB_NAME", "vjbotz")
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_V
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
@@ -58,7 +58,7 @@ LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002111586726"))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002091170815')).split()]
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_V
 # Ask Doubt on telegram @KingVJ01
 
 # File Caption Information
@@ -70,7 +70,7 @@ PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_V
 # Ask Doubt on telegram @KingVJ01
 
 # File Stream Config
